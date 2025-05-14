@@ -8,7 +8,11 @@
 */
 
 // Add your code right below, good luck!
-
+const firstName = "Jacob"
+const lastName = "Batson"
+const thisYear = 2025
+const birthYear = 2006
+const greeting = "My name is " + firstName + " " + lastName + " I am " + (thisYear - birthYear) + " years old"
 
 
 
